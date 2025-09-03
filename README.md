@@ -616,9 +616,7 @@ This project is proprietary software developed for TrendHome Fenster. All rights
 ### Planned Features
 - Database integration
 - Advanced reporting
-- Multi-language support
-- Enhanced admin analytics
-- Mobile app version
+
 
 ---
 
